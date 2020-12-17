@@ -1,0 +1,3 @@
+- project mobil 
+- web pribadi
+- belajar flutter
