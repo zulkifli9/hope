@@ -1,3 +1,3 @@
-- project mobil with arduino nano beres 
+- project mobil dengan arduino nano beres 
 - berhasil membuat web pribadi 
 - Lancar dallam belajar flutter
